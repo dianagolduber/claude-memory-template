@@ -1,0 +1,4 @@
+.claude-flow/
+.claude/
+*.log
+.DS_Store
